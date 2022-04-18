@@ -1,4 +1,5 @@
 uvicorn
 fastapi
 jieba
-cihai
+chinese_english_lookup
+pypinyin
